@@ -304,4 +304,4 @@ body, input, textarea, button {
 
   display: flex;
   flex-direction: column;
-`;function _x(){return A.jsxs(gx,{children:[A.jsx(vx,{}),A.jsx(o_,{})]})}function wx(){return A.jsx(a_,{children:A.jsxs(cs,{path:"/",element:A.jsx(_x,{}),children:[A.jsx(cs,{path:"/",element:A.jsx(Ak,{})}),A.jsx(cs,{path:"/history",element:A.jsx(px,{})})]})})}function kx(){return A.jsxs(c1,{theme:p1,children:[A.jsx(p_,{children:A.jsx(sk,{children:A.jsx(wx,{})})}),A.jsx(m1,{})]})}Ll.createRoot(document.getElementById("root")).render(A.jsx(_.StrictMode,{children:A.jsx(kx,{})}));
+`;function _x(){return A.jsxs(gx,{children:[A.jsx(vx,{}),A.jsx(o_,{})]})}function wx(){return A.jsx(a_,{children:A.jsxs(cs,{path:"/",element:A.jsx(_x,{}),children:[A.jsx(cs,{path:"/",element:A.jsx(Ak,{})}),A.jsx(cs,{path:"/history",element:A.jsx(px,{})})]})})}function kx(){return A.jsxs(c1,{theme:p1,children:[A.jsx(p_,{basename:"/Trilha-Ignite-Projeto-02/",children:A.jsx(sk,{children:A.jsx(wx,{})})}),A.jsx(m1,{})]})}Ll.createRoot(document.getElementById("root")).render(A.jsx(_.StrictMode,{children:A.jsx(kx,{})}));
