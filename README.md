@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - Styled Components
 - React + TypeScript
-- Bibliotecas do React: Phosphor React, React Hook Form
+- Bibliotecas do React: Phosphor React, React Router DOM
 - Hooks do React: useContext, useReducer
 - Immer
 - Visual Studio Code 
