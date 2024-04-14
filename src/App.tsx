@@ -8,7 +8,7 @@ import { CyclesContextProvider } from './contexts/CyclesContext.tsx'
 export function App() {
   return (
     <ThemeProvider theme={defaultTheme}>
-      <BrowserRouter>
+      <BrowserRouter basename={'/Trilha-Ignite-Projeto-02/'}>
         <CyclesContextProvider>
           <Router />
         </CyclesContextProvider>
